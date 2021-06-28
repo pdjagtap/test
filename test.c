@@ -1,3 +1,4 @@
+/* This is a test code for Git understaing */
 #include "stdio.h"
 
 int main(){
